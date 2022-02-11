@@ -1,4 +1,4 @@
-# PortfolioV2
+<!-- # PortfolioV2
 
 ![PortfolioV2](/images/portfolio1.gif)
 
@@ -61,4 +61,4 @@ Now, your website is successfully deployed and you can visit it at `<your-github
 # References
 
 Based on https://github.com/ashutosh1919/masterPortfolio/ and https://github.com/saadpasta/developerFolio
-Illustrations: https://undraw.co/
+Illustrations: https://undraw.co/ -->
