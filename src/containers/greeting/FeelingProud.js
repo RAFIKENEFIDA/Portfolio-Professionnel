@@ -5,6 +5,7 @@ function FeelingProud(props) {
   const theme = props.theme;
   return (
     <svg
+     
       version="1.1"
       viewBox="80 -10 100.1879 500"
       height="650.68268"
